@@ -1,0 +1,3 @@
+[submodule "build-context/certbot-dns-oci"]
+	path = build-context/certbot-dns-oci
+	url = git@github.com:binary-sequence-forks/certbot-dns-oci.git
